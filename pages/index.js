@@ -8,6 +8,9 @@ export default function Home() {
           <span className="block text-blue-500 text-2xl font-normal">
             Deployed to DigitalOcean
           </span>
+		  <span className="block text-blue-500 text-2xl font-normal">
+            Edited on iPad ;)
+			</span>
         </h2>
 
         <p className="text-gray-700 mb-6">
