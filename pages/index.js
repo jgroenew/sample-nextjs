@@ -9,7 +9,7 @@ export default function Home() {
             Deployed to DigitalOcean
           </span>
 		  <span className="block text-blue-500 text-2xl font-normal">
-            Edited on iPad ;)
+            Edited on Github Codespaces!
 			</span>
         </h2>
 
